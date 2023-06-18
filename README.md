@@ -1,0 +1,1 @@
+Variational Auto Encoder for the Cifar Dataset written in Pytorch 
